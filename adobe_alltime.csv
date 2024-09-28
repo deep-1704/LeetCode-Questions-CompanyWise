@@ -5,16 +5,16 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 741,Cherry Pickup,33.9%,Hard,1.8321162392691122, https://leetcode.com/problems/cherry-pickup, Done
 3,Longest Substring Without Repeating Characters,30.4%,Medium,1.8014105894541743, https://leetcode.com/problems/longest-substring-without-repeating-characters, Done
 7,Reverse Integer,25.8%,Easy,1.73297236373911, https://leetcode.com/problems/reverse-integer, Done
-175,Combine Two Tables,60.8%,Easy,1.6956988952705778, https://leetcode.com/problems/combine-two-tables, Todo
-21,Merge Two Sorted Lists,53.5%,Easy,1.5676206155174264, https://leetcode.com/problems/merge-two-sorted-lists, Todo
-5,Longest Palindromic Substring,29.5%,Medium,1.5174071915824883, https://leetcode.com/problems/longest-palindromic-substring, Todo
-15,3Sum,26.8%,Medium,1.4894785973551214, https://leetcode.com/problems/3sum, Todo
-13,Roman to Integer,55.7%,Easy,1.4339144225059055, https://leetcode.com/problems/roman-to-integer, Todo
-6,ZigZag Conversion,36.3%,Medium,1.2151544914446004, https://leetcode.com/problems/zigzag-conversion, Todo
-195,Tenth Line,33.0%,Easy,1.1862816902916034, https://leetcode.com/problems/tenth-line, Todo
-53,Maximum Subarray,46.5%,Easy,1.1698468033916782, https://leetcode.com/problems/maximum-subarray, Todo
-192,Word Frequency,25.8%,Medium,1.1542304443345712, https://leetcode.com/problems/word-frequency, Todo
-11,Container With Most Water,50.8%,Medium,1.1498172467169137, https://leetcode.com/problems/container-with-most-water, Todo
+175,Combine Two Tables,60.8%,Easy,1.6956988952705778, https://leetcode.com/problems/combine-two-tables, SQL
+21,Merge Two Sorted Lists,53.5%,Easy,1.5676206155174264, https://leetcode.com/problems/merge-two-sorted-lists, Done
+5,Longest Palindromic Substring,29.5%,Medium,1.5174071915824883, https://leetcode.com/problems/longest-palindromic-substring, Done
+15,3Sum,26.8%,Medium,1.4894785973551214, https://leetcode.com/problems/3sum, Done
+13,Roman to Integer,55.7%,Easy,1.4339144225059055, https://leetcode.com/problems/roman-to-integer, Done
+6,ZigZag Conversion,36.3%,Medium,1.2151544914446004, https://leetcode.com/problems/zigzag-conversion, Done
+195,Tenth Line,33.0%,Easy,1.1862816902916034, https://leetcode.com/problems/tenth-line, Bash
+53,Maximum Subarray,46.5%,Easy,1.1698468033916782, https://leetcode.com/problems/maximum-subarray, Done
+192,Word Frequency,25.8%,Medium,1.1542304443345712, https://leetcode.com/problems/word-frequency, Bash
+11,Container With Most Water,50.8%,Medium,1.1498172467169137, https://leetcode.com/problems/container-with-most-water, Done
 146,LRU Cache,33.2%,Medium,1.1414840541705635, https://leetcode.com/problems/lru-cache, Todo
 14,Longest Common Prefix,35.4%,Easy,1.0701063949652634, https://leetcode.com/problems/longest-common-prefix, Todo
 9,Palindrome Number,48.4%,Easy,1.0389585830023096, https://leetcode.com/problems/palindrome-number, Todo
