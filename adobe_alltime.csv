@@ -3,7 +3,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 2,Add Two Numbers,33.9%,Medium,2.269636101391722, https://leetcode.com/problems/add-two-numbers, Done
 4,Median of Two Sorted Arrays,29.6%,Hard,2.050876170330417, https://leetcode.com/problems/median-of-two-sorted-arrays, Done
 741,Cherry Pickup,33.9%,Hard,1.8321162392691122, https://leetcode.com/problems/cherry-pickup, Done
-3,Longest Substring Without Repeating Characters,30.4%,Medium,1.8014105894541743, https://leetcode.com/problems/longest-substring-without-repeating-characters, Todo
+3,Longest Substring Without Repeating Characters,30.4%,Medium,1.8014105894541743, https://leetcode.com/problems/longest-substring-without-repeating-characters, Done
 7,Reverse Integer,25.8%,Easy,1.73297236373911, https://leetcode.com/problems/reverse-integer, Todo
 175,Combine Two Tables,60.8%,Easy,1.6956988952705778, https://leetcode.com/problems/combine-two-tables, Todo
 21,Merge Two Sorted Lists,53.5%,Easy,1.5676206155174264, https://leetcode.com/problems/merge-two-sorted-lists, Todo
