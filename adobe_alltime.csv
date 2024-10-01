@@ -20,8 +20,8 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 9,Palindrome Number,48.4%,Easy,1.0389585830023096, https://leetcode.com/problems/palindrome-number, Done
 292,Nim Game,54.9%,Easy,1.0340435601569165, https://leetcode.com/problems/nim-game, Done
 206,Reverse Linked List,62.5%,Easy,0.9491844552172142, https://leetcode.com/problems/reverse-linked-list, Done
-22,Generate Parentheses,62.7%,Medium,0.9146285119909732, https://leetcode.com/problems/generate-parentheses, Todo
-312,Burst Balloons,51.8%,Hard,0.8978937096587362, https://leetcode.com/problems/burst-balloons, Todo
+22,Generate Parentheses,62.7%,Medium,0.9146285119909732, https://leetcode.com/problems/generate-parentheses, Done
+312,Burst Balloons,51.8%,Hard,0.8978937096587362, https://leetcode.com/problems/burst-balloons, Done
 771,Jewels and Stones,86.4%,Easy,0.8045122974235372, https://leetcode.com/problems/jewels-and-stones, Todo
 18,4Sum,33.7%,Medium,0.7870176048739561, https://leetcode.com/problems/4sum, Todo
 344,Reverse String,68.5%,Easy,0.7803563983565922, https://leetcode.com/problems/reverse-string, Todo
