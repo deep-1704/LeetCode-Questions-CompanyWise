@@ -22,12 +22,12 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 206,Reverse Linked List,62.5%,Easy,0.9491844552172142, https://leetcode.com/problems/reverse-linked-list, Done
 22,Generate Parentheses,62.7%,Medium,0.9146285119909732, https://leetcode.com/problems/generate-parentheses, Done
 312,Burst Balloons,51.8%,Hard,0.8978937096587362, https://leetcode.com/problems/burst-balloons, Done
-771,Jewels and Stones,86.4%,Easy,0.8045122974235372, https://leetcode.com/problems/jewels-and-stones, Todo
-18,4Sum,33.7%,Medium,0.7870176048739561, https://leetcode.com/problems/4sum, Todo
-344,Reverse String,68.5%,Easy,0.7803563983565922, https://leetcode.com/problems/reverse-string, Todo
-20,Valid Parentheses,39.0%,Easy,0.7728842221115333, https://leetcode.com/problems/valid-parentheses, Todo
-23,Merge k Sorted Lists,40.2%,Hard,0.744432863023671, https://leetcode.com/problems/merge-k-sorted-lists, Todo
-42,Trapping Rain Water,48.9%,Hard,0.7166320474707057, https://leetcode.com/problems/trapping-rain-water, Todo
+771,Jewels and Stones,86.4%,Easy,0.8045122974235372, https://leetcode.com/problems/jewels-and-stones, Done
+18,4Sum,33.7%,Medium,0.7870176048739561, https://leetcode.com/problems/4sum, Done
+344,Reverse String,68.5%,Easy,0.7803563983565922, https://leetcode.com/problems/reverse-string, Done
+20,Valid Parentheses,39.0%,Easy,0.7728842221115333, https://leetcode.com/problems/valid-parentheses, Done
+23,Merge k Sorted Lists,40.2%,Hard,0.744432863023671, https://leetcode.com/problems/merge-k-sorted-lists, Done
+42,Trapping Rain Water,48.9%,Hard,0.7166320474707057, https://leetcode.com/problems/trapping-rain-water, Done
 274,H-Index,36.1%,Medium,0.7105315488308892, https://leetcode.com/problems/h-index, Todo
 595,Big Countries,77.3%,Easy,0.6960898016141428, https://leetcode.com/problems/big-countries, Todo
 76,Minimum Window Substring,34.6%,Hard,0.641927908156958, https://leetcode.com/problems/minimum-window-substring, Todo
