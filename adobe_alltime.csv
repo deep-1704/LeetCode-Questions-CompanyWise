@@ -33,7 +33,7 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 76,Minimum Window Substring,34.6%,Hard,0.641927908156958, https://leetcode.com/problems/minimum-window-substring, Done
 10,Regular Expression Matching,26.8%,Hard,0.6273817982285409, https://leetcode.com/problems/regular-expression-matching, Done
 386,Lexicographical Numbers,51.6%,Medium,0.626946543403964, https://leetcode.com/problems/lexicographical-numbers, Done
-214,Shortest Palindrome,29.8%,Hard,0.6257058997644127, https://leetcode.com/problems/shortest-palindrome, Todo
+214,Shortest Palindrome,29.8%,Hard,0.6257058997644127, https://leetcode.com/problems/shortest-palindrome, Done
 561,Array Partition I,72.0%,Easy,0.6209795294618357, https://leetcode.com/problems/array-partition-i, Todo
 12,Integer to Roman,55.1%,Medium,0.618907369249803, https://leetcode.com/problems/integer-to-roman, Todo
 88,Merge Sorted Array,39.4%,Easy,0.5992604670982806, https://leetcode.com/problems/merge-sorted-array, Todo
