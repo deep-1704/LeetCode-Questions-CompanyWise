@@ -30,9 +30,9 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 42,Trapping Rain Water,48.9%,Hard,0.7166320474707057, https://leetcode.com/problems/trapping-rain-water, Done
 274,H-Index,36.1%,Medium,0.7105315488308892, https://leetcode.com/problems/h-index, Done
 595,Big Countries,77.3%,Easy,0.6960898016141428, https://leetcode.com/problems/big-countries, SQL
-76,Minimum Window Substring,34.6%,Hard,0.641927908156958, https://leetcode.com/problems/minimum-window-substring, Todo
-10,Regular Expression Matching,26.8%,Hard,0.6273817982285409, https://leetcode.com/problems/regular-expression-matching, Todo
-386,Lexicographical Numbers,51.6%,Medium,0.626946543403964, https://leetcode.com/problems/lexicographical-numbers, Todo
+76,Minimum Window Substring,34.6%,Hard,0.641927908156958, https://leetcode.com/problems/minimum-window-substring, Done
+10,Regular Expression Matching,26.8%,Hard,0.6273817982285409, https://leetcode.com/problems/regular-expression-matching, Done
+386,Lexicographical Numbers,51.6%,Medium,0.626946543403964, https://leetcode.com/problems/lexicographical-numbers, Done
 214,Shortest Palindrome,29.8%,Hard,0.6257058997644127, https://leetcode.com/problems/shortest-palindrome, Todo
 561,Array Partition I,72.0%,Easy,0.6209795294618357, https://leetcode.com/problems/array-partition-i, Todo
 12,Integer to Roman,55.1%,Medium,0.618907369249803, https://leetcode.com/problems/integer-to-roman, Todo
