@@ -34,15 +34,15 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 10,Regular Expression Matching,26.8%,Hard,0.6273817982285409, https://leetcode.com/problems/regular-expression-matching, Done
 386,Lexicographical Numbers,51.6%,Medium,0.626946543403964, https://leetcode.com/problems/lexicographical-numbers, Done
 214,Shortest Palindrome,29.8%,Hard,0.6257058997644127, https://leetcode.com/problems/shortest-palindrome, Done
-561,Array Partition I,72.0%,Easy,0.6209795294618357, https://leetcode.com/problems/array-partition-i, Todo
-12,Integer to Roman,55.1%,Medium,0.618907369249803, https://leetcode.com/problems/integer-to-roman, Todo
-88,Merge Sorted Array,39.4%,Easy,0.5992604670982806, https://leetcode.com/problems/merge-sorted-array, Todo
-177,Nth Highest Salary,31.4%,Medium,0.5957174923400869, https://leetcode.com/problems/nth-highest-salary, Todo
-8,String to Integer (atoi),15.4%,Medium,0.5871742950115802, https://leetcode.com/problems/string-to-integer-atoi, Todo
-46,Permutations,63.5%,Medium,0.5710040142718329, https://leetcode.com/problems/permutations, Todo
-201,Bitwise AND of Numbers Range,39.4%,Medium,0.5616591289700842, https://leetcode.com/problems/bitwise-and-of-numbers-range, Todo
-176,Second Highest Salary,31.6%,Easy,0.5550999082992657, https://leetcode.com/problems/second-highest-salary, Todo
-54,Spiral Matrix,34.1%,Medium,0.5477790799646545, https://leetcode.com/problems/spiral-matrix, Todo
+561,Array Partition I,72.0%,Easy,0.6209795294618357, https://leetcode.com/problems/array-partition-i, NA
+12,Integer to Roman,55.1%,Medium,0.618907369249803, https://leetcode.com/problems/integer-to-roman, Done
+88,Merge Sorted Array,39.4%,Easy,0.5992604670982806, https://leetcode.com/problems/merge-sorted-array, Done
+177,Nth Highest Salary,31.4%,Medium,0.5957174923400869, https://leetcode.com/problems/nth-highest-salary, SQL
+8,String to Integer (atoi),15.4%,Medium,0.5871742950115802, https://leetcode.com/problems/string-to-integer-atoi, Done
+46,Permutations,63.5%,Medium,0.5710040142718329, https://leetcode.com/problems/permutations, Done
+201,Bitwise AND of Numbers Range,39.4%,Medium,0.5616591289700842, https://leetcode.com/problems/bitwise-and-of-numbers-range, Done
+176,Second Highest Salary,31.6%,Easy,0.5550999082992657, https://leetcode.com/problems/second-highest-salary, SQL
+54,Spiral Matrix,34.1%,Medium,0.5477790799646545, https://leetcode.com/problems/spiral-matrix, Done
 238,Product of Array Except Self,60.1%,Medium,0.5410045911404007, https://leetcode.com/problems/product-of-array-except-self, Todo
 315,Count of Smaller Numbers After Self,41.5%,Hard,0.5355270510063105, https://leetcode.com/problems/count-of-smaller-numbers-after-self, Todo
 85,Maximal Rectangle,37.7%,Hard,0.505442030682518, https://leetcode.com/problems/maximal-rectangle, Todo
