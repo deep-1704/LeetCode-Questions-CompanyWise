@@ -43,9 +43,9 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 201,Bitwise AND of Numbers Range,39.4%,Medium,0.5616591289700842, https://leetcode.com/problems/bitwise-and-of-numbers-range, Done
 176,Second Highest Salary,31.6%,Easy,0.5550999082992657, https://leetcode.com/problems/second-highest-salary, SQL
 54,Spiral Matrix,34.1%,Medium,0.5477790799646545, https://leetcode.com/problems/spiral-matrix, Done
-238,Product of Array Except Self,60.1%,Medium,0.5410045911404007, https://leetcode.com/problems/product-of-array-except-self, Todo
-315,Count of Smaller Numbers After Self,41.5%,Hard,0.5355270510063105, https://leetcode.com/problems/count-of-smaller-numbers-after-self, Todo
-85,Maximal Rectangle,37.7%,Hard,0.505442030682518, https://leetcode.com/problems/maximal-rectangle, Todo
+238,Product of Array Except Self,60.1%,Medium,0.5410045911404007, https://leetcode.com/problems/product-of-array-except-self, Done
+315,Count of Smaller Numbers After Self,41.5%,Hard,0.5355270510063105, https://leetcode.com/problems/count-of-smaller-numbers-after-self, Done
+85,Maximal Rectangle,37.7%,Hard,0.505442030682518, https://leetcode.com/problems/maximal-rectangle, Done
 41,First Missing Positive,32.0%,Hard,0.4966396105083198, https://leetcode.com/problems/first-missing-positive, Todo
 38,Count and Say,44.6%,Easy,0.4926620533465078, https://leetcode.com/problems/count-and-say, Todo
 322,Coin Change,35.5%,Medium,0.48915086353512044, https://leetcode.com/problems/coin-change, Todo
