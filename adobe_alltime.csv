@@ -46,11 +46,11 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 238,Product of Array Except Self,60.1%,Medium,0.5410045911404007, https://leetcode.com/problems/product-of-array-except-self, Done
 315,Count of Smaller Numbers After Self,41.5%,Hard,0.5355270510063105, https://leetcode.com/problems/count-of-smaller-numbers-after-self, Done
 85,Maximal Rectangle,37.7%,Hard,0.505442030682518, https://leetcode.com/problems/maximal-rectangle, Done
-41,First Missing Positive,32.0%,Hard,0.4966396105083198, https://leetcode.com/problems/first-missing-positive, Todo
-38,Count and Say,44.6%,Easy,0.4926620533465078, https://leetcode.com/problems/count-and-say, Todo
-322,Coin Change,35.5%,Medium,0.48915086353512044, https://leetcode.com/problems/coin-change, Todo
-237,Delete Node in a Linked List,63.8%,Easy,0.4849621131760714, https://leetcode.com/problems/delete-node-in-a-linked-list, Todo
-121,Best Time to Buy and Sell Stock,50.5%,Easy,0.47900593564253346, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, Todo
+41,First Missing Positive,32.0%,Hard,0.4966396105083198, https://leetcode.com/problems/first-missing-positive, Done
+38,Count and Say,44.6%,Easy,0.4926620533465078, https://leetcode.com/problems/count-and-say, Done
+322,Coin Change,35.5%,Medium,0.48915086353512044, https://leetcode.com/problems/coin-change, Done
+237,Delete Node in a Linked List,63.8%,Easy,0.4849621131760714, https://leetcode.com/problems/delete-node-in-a-linked-list, Done
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.47900593564253346, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, Done
 32,Longest Valid Parentheses,28.4%,Hard,0.4610968040943131, https://leetcode.com/problems/longest-valid-parentheses, Todo
 420,Strong Password Checker,14.0%,Hard,0.4491177382659011, https://leetcode.com/problems/strong-password-checker, Todo
 136,Single Number,65.5%,Easy,0.44677265180412157, https://leetcode.com/problems/single-number, Todo
