@@ -52,10 +52,10 @@ ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Status
 237,Delete Node in a Linked List,63.8%,Easy,0.4849621131760714, https://leetcode.com/problems/delete-node-in-a-linked-list, Done
 121,Best Time to Buy and Sell Stock,50.5%,Easy,0.47900593564253346, https://leetcode.com/problems/best-time-to-buy-and-sell-stock, Done
 32,Longest Valid Parentheses,28.4%,Hard,0.4610968040943131, https://leetcode.com/problems/longest-valid-parentheses, Done
-420,Strong Password Checker,14.0%,Hard,0.4491177382659011, https://leetcode.com/problems/strong-password-checker, Todo
-136,Single Number,65.5%,Easy,0.44677265180412157, https://leetcode.com/problems/single-number, Todo
-148,Sort List,42.3%,Medium,0.4396170196774987, https://leetcode.com/problems/sort-list, Todo
-82,Remove Duplicates from Sorted List II,36.8%,Medium,0.4392651170596573, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii, Todo
+420,Strong Password Checker,14.0%,Hard,0.4491177382659011, https://leetcode.com/problems/strong-password-checker, Done
+136,Single Number,65.5%,Easy,0.44677265180412157, https://leetcode.com/problems/single-number, Done
+148,Sort List,42.3%,Medium,0.4396170196774987, https://leetcode.com/problems/sort-list, Done
+82,Remove Duplicates from Sorted List II,36.8%,Medium,0.4392651170596573, https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii, Done
 16,3Sum Closest,46.0%,Medium,0.43554023176972845, https://leetcode.com/problems/3sum-closest, Todo
 45,Jump Game II,30.6%,Hard,0.4315020818911597, https://leetcode.com/problems/jump-game-ii, Todo
 535,Encode and Decode TinyURL,79.9%,Medium,0.4221173972425086, https://leetcode.com/problems/encode-and-decode-tinyurl, Todo
